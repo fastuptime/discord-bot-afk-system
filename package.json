@@ -1,0 +1,21 @@
+{
+  "name": "discord-bot-afk-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "afk",
+    "fastuptime"
+  ],
+  "author": "Can",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.0.0"
+  }
+}
